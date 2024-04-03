@@ -28,11 +28,3 @@ O controller `UserController` lida com as requisições relacionadas aos usuári
 Para utilizar este projeto, é necessário cloná-lo e executá-lo em um ambiente de desenvolvimento Java Spring Boot.
 
 Certifique-se de ter o ambiente configurado corretamente com as dependências necessárias, como Maven e JDK.
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para discutir possíveis melhorias ou abrir um pull request.
-
-## Licença
-
-Este projeto é licenciado sob a MIT License.
